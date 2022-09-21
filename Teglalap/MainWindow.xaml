@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Teglalap"
         mc:Ignorable="d"
-        Title="MainWindow" Height="236" Width="400" MinHeight="236" MinWidth="400">
-    <Grid ShowGridLines="True">
+        Title="Téglalap" Height="236" Width="400" MinHeight="236" MinWidth="400">
+    <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
